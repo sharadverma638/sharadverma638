@@ -1,4 +1,22 @@
-## 👋🏻 Hi there, Hope you are doing great. 😊
+╔══════════════════════════════════════════════╗
+║                                              ║
+║          👋 HI, I'M SHARAD VERMA            ║
+║                                              ║
+║       DEVOPS • CLOUD • AUTOMATION            ║
+║                                              ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  🧑‍💻 ABOUT ME                               ║
+║                                              ║
+║  Tech enthusiast learning DevOps & Cloud.   ║
+║                                              ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  🛠️ TECH STACK                              ║
+║                                              ║
+║  [ Git ] [ Linux ] [ Docker ] [ AWS ]      ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 
 <!--
 **sharadverma638/sharadverma638** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
