@@ -13,6 +13,9 @@
     <a href="https://sharadverma638.github.io/Portfolio" target="_blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/Website-green">
     </a>
+    <a href="mailto:sharadverma638@gmail.com" target="_blank">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Email-grey">
+    </a>
 </div>
 
 <!--  -->
