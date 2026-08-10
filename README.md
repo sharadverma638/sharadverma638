@@ -20,6 +20,6 @@
 
 <!--  -->
 ---
-🌱 A little about this profile
+🌱 A little about this profile 🌳
 
 I’m currently focused on learning, upskilling, and building new things. I’ll be adding my projects and other details here as I continue to grow and explore new technologies. See you soon!
