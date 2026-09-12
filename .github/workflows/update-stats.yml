@@ -2,7 +2,7 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: '*/5 * * * *'   # 7:01 AM, 1:01 PM, 7:01 PM, 1:01 AM IST
+    - cron: '31 1,7,13,19 * * *'   # 7:01 AM, 1:01 PM, 7:01 PM, 1:01 AM IST
   workflow_dispatch:                # allows manual trigger from Actions tab
 
 jobs:
