@@ -1,0 +1,66 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'   # 7:01 AM, 1:01 PM, 7:01 PM, 1:01 AM IST
+  workflow_dispatch:                # allows manual trigger from Actions tab
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Create stats folder
+        run: mkdir -p assets/stats
+
+      - name: Download stats with retries and error handling
+        run: |
+          TS=$(date +%s)
+          fetch() {
+            url="$1"
+            out="$2"
+            for i in 1 2 3; do
+              if curl -sf --max-time 20 -H "Cache-Control: no-cache" "$url" -o "$out.tmp" && [ -s "$out.tmp" ]; then
+                mv "$out.tmp" "$out"
+                echo "OK: $out"
+                return 0
+              fi
+              echo "Attempt $i failed for $out, retrying in 5s..."
+              rm -f "$out.tmp"
+              sleep 5
+            done
+            echo "WARNING: all attempts failed for $out — keeping previous version"
+            return 1
+          }
+
+          fetch "https://github-stats-extended.vercel.app/api?username=sharadverma638&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark&cache_seconds=1&_ts=$TS" "assets/stats/stats-dark.svg" || true
+          fetch "https://github-stats-extended.vercel.app/api?username=sharadverma638&hide_title=true&show_icons=true&include_all_commits=true&cache_seconds=1&_ts=$TS" "assets/stats/stats-light.svg" || true
+          fetch "https://github-stats-extended.vercel.app/api/top-langs?username=sharadverma638&layout=compact&hide_title=true&theme=github_dark&_ts=$TS" "assets/stats/langs-dark.svg" || true
+          fetch "https://github-stats-extended.vercel.app/api/top-langs?username=sharadverma638&layout=compact&hide_title=true&_ts=$TS" "assets/stats/langs-light.svg" || true
+          fetch "https://streak-stats.demolab.com?user=sharadverma638&theme=github-dark-blue&timezone=IST&date_format=j%20M%5B%20Y%5D&_ts=$TS" "assets/stats/streak-dark.svg" || true
+          fetch "https://streak-stats.demolab.com?user=sharadverma638&theme=transparent&timezone=IST&date_format=j%20M%5B%20Y%5D&_ts=$TS" "assets/stats/streak-light.svg" || true
+
+      - name: Update last-updated text in README
+        run: |
+          NOW=$(TZ='Asia/Kolkata' date '+%d %b %Y, %I:%M %p IST')
+          if grep -q "<!--LAST_UPDATED_START-->" README.md; then
+            sed -i "/<!--LAST_UPDATED_START-->/,/<!--LAST_UPDATED_END-->/c\\<!--LAST_UPDATED_START-->\\n<sub>*Last updated: $NOW*<\\/sub>\\n<!--LAST_UPDATED_END-->" README.md
+          else
+            echo "WARNING: LAST_UPDATED markers not found in README.md, skipping timestamp update"
+          fi
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/stats/ README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update stats [automated]"
+            git push
+          fi
