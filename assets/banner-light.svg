@@ -1,0 +1,149 @@
+<!-- ⚠️ Do NOT copy-paste this code. This is the result of my hard work - put in your own effort and build it yourself. ⚠️ -->
+
+
+
+<svg width="100%" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowYmYzZTBiYi01Y2Y5LTQ2NzYtYTk5ZC1jYzQxYTMzZGVlOTgAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaBno+EDQ0cX6mZP2kqUP78UAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoxMmRiODAzYS1jNTYyLTQzMGItYWNjMy0yMzdlMmEwMGU5ZWZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNowpPuBIdGU77jyZcDM8bVnAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggW63dmr42urblJePkMc+Sak+XaJZZTPgHsCHGN+qUHuSkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaJmAWE8Kj20+9pN5etOIpgMAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBcJWPRacYmlFO+Nlq5jD4WsUzMDmOIpFD+tj4UdoeWs2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjBiZjNlMGJiLTVjZjktNDY3Ni1hOTlkLWNjNDFhMzNkZWU5OC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjI4NDJjMWE4LWE1ZWEtNDYwMi04OTNmLWNhYTFiZGY0OWI5NXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBbrd2avja6tuUl4+Qxz5JqT5dolllM+AewIcY36pQe5KJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggBOttULBjXRmiaSm2dq0OZItkPAXQx/9UIHUHPKE4fWWiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggk7DsSOzCKkOVYYZKJ6f6349KZ/Yoge8B+hq3zd2pw8F0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQAERImjp/BnMYzZaF41QhG2KKHAbCY1kXwLJdL/g6m4I2pO+TmS8WDmLQ5SicyA67gSpb9OsHQdNBYRHXlOYMWs=</c2pa:manifest></metadata>
+  <style>
+    .name { font-family: 'Exo 2', 'Segoe UI', Arial, sans-serif; font-weight: 700; letter-spacing: 0.5px; }
+    .role { font-family: Georgia, 'Times New Roman', serif; font-style: italic; font-weight: 400; }
+  </style>
+  <defs>
+    <linearGradient id="bgL" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f3f4f6"/>
+    </linearGradient>
+    <radialGradient id="glowL" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0969da" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#0969da" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="topHighlightL" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fadeGradL" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#ffffff"/>
+      <stop offset="58%" stop-color="#ffffff"/>
+      <stop offset="70%" stop-color="#f5f5f5"/>
+      <stop offset="80%" stop-color="#c8c8c8"/>
+      <stop offset="88%" stop-color="#8c8c8c"/>
+      <stop offset="94%" stop-color="#505050"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+    <clipPath id="clipL">
+      <rect x="0" y="0" width="1000" height="260" rx="22" ry="22"/>
+    </clipPath>
+    <mask id="fadeMaskL">
+      <rect x="0" y="0" width="1000" height="260" fill="url(#fadeGradL)"/>
+    </mask>
+    <filter id="cardShadowL" x="-20%" y="-20%" width="140%" height="170%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#1f2328" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#cardShadowL)">
+    <g clip-path="url(#clipL)" mask="url(#fadeMaskL)">
+      <rect x="0" y="0" width="1000" height="260" fill="url(#bgL)"/>
+      <rect x="0" y="0" width="1000" height="80" fill="url(#topHighlightL)"/>
+
+      <circle r="180" fill="url(#glowL)">
+        <animate attributeName="cx" values="250;750;250" dur="14s" repeatCount="indefinite"
+          calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
+        <animate attributeName="cy" values="70;190;70" dur="14s" repeatCount="indefinite"
+          calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
+      </circle>
+
+      <!-- Icon 1: Code brackets, top-left -->
+      <g transform="translate(90, 42)">
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.3s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" values="-40 -40; 0 0"
+            dur="0.8s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+          <g>
+            <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0"
+              dur="3.5s" begin="1.1s" repeatCount="indefinite" calcMode="spline"
+              keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+            <path d="M -6,-12 L -18,0 L -6,12" fill="none" stroke="#0969da" stroke-width="2.5"
+                  stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+            <path d="M 6,-12 L 18,0 L 6,12" fill="none" stroke="#0969da" stroke-width="2.5"
+                  stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+          </g>
+        </g>
+      </g>
+
+      <!-- Icon 2: Infinity loop, top-right -->
+      <g transform="translate(910, 42)">
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.5s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" values="40 -40; 0 0"
+            dur="0.8s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+          <g>
+            <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0"
+              dur="3.5s" begin="1.3s" repeatCount="indefinite" calcMode="spline"
+              keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+            <path d="M -26,0 C -26,-14 -8,-14 0,0 C 8,14 26,14 26,0 C 26,-14 8,-14 0,0 C -8,14 -26,14 -26,0 Z"
+                  fill="none" stroke="#0969da" stroke-width="2.5" stroke-linecap="round" opacity="0.35"/>
+          </g>
+        </g>
+      </g>
+
+      <!-- Icon 3: Server rack, bottom-left -->
+      <g transform="translate(90, 228)">
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.7s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" values="-40 40; 0 0"
+            dur="0.8s" begin="0.7s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+          <g>
+            <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0"
+              dur="3.5s" begin="1.5s" repeatCount="indefinite" calcMode="spline"
+              keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+            <rect x="-17" y="-13" width="34" height="6" rx="3" fill="none" stroke="#0969da" stroke-width="2" opacity="0.35"/>
+            <rect x="-17" y="-3" width="34" height="6" rx="3" fill="none" stroke="#0969da" stroke-width="2" opacity="0.35"/>
+            <rect x="-17" y="7" width="34" height="6" rx="3" fill="none" stroke="#0969da" stroke-width="2" opacity="0.35"/>
+          </g>
+        </g>
+      </g>
+
+      <!-- Icon 4: Cloud, bottom-right -->
+      <g transform="translate(910, 228)">
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.9s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" values="40 40; 0 0"
+            dur="0.8s" begin="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+          <g>
+            <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0"
+              dur="3.5s" begin="1.7s" repeatCount="indefinite" calcMode="spline"
+              keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+            <g transform="scale(1.5) translate(-12,-12)">
+              <path d="M19.35 10.04A7.49 7.49 0 0012 4a7.49 7.49 0 00-7.35 6.04A5.5 5.5 0 005.5 20h13a5.5 5.5 0 000-10.96z"
+                    fill="none" stroke="#0969da" stroke-width="1.7" stroke-linejoin="round"
+                    stroke-linecap="round" opacity="0.35"/>
+            </g>
+          </g>
+        </g>
+      </g>
+
+      <!-- Name, centered, larger -->
+      <text x="500" y="125" text-anchor="middle" class="name" font-size="58" fill="#1f2328" opacity="0">
+        Sharad Verma
+        <animate attributeName="opacity" values="0;1" dur="1s" begin="0.4s" fill="freeze"
+          calcMode="spline" keySplines="0.4 0 0.2 1"/>
+        <animateTransform attributeName="transform" type="translate" values="0 14; 0 0"
+          dur="0.9s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+      </text>
+
+      <!-- Underline -->
+      <rect x="500" y="150" width="0" height="3" rx="1.5" fill="#58A4FE">
+        <animate attributeName="x" values="500;430" dur="0.9s" begin="1.3s" fill="freeze"
+          calcMode="spline" keySplines="0.4 0 0.2 1"/>
+        <animate attributeName="width" values="0;140" dur="0.9s" begin="1.3s" fill="freeze"
+          calcMode="spline" keySplines="0.4 0 0.2 1"/>
+      </rect>
+
+      <!-- Role text, larger -->
+      <text x="500" y="192" text-anchor="middle" class="role" font-size="27" fill="#57606a" opacity="0">
+        Aspiring DevOps Engineer
+        <animate attributeName="opacity" values="0;1" dur="0.8s" begin="1.7s" fill="freeze"/>
+      </text>
+    </g>
+  </g>
+</svg>
