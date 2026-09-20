@@ -13,6 +13,7 @@
 <!-- MOVING LINES (TYPING SVG) -->
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nova+Round&size=21&duration=4000&pause=500&color=58A4FE&center=true&vCenter=true&width=600&height=65&lines=Building+systems+that+think%2C+heal%2C+and+scale.;Designing+workflows+that+learn%2C+adapt%2C+and+execute.;Shipping+pipelines+that+defend%2C+detect%2C+and+deliver." alt="Typing SVG" /></a>
+<br>
 
 
 <!-- LINKS -->
@@ -29,6 +30,7 @@
     <img alt="Email" src="https://badgers.space/badge/email/Email/A85C7A?icon=eva-email-outline&label=&corner_radius=l&scale=1.2&theme=tailwind">
   </a>
 </div>
+<br>
 
 ---
 
@@ -125,8 +127,14 @@ A 3-tier Hospital Management System (React, Node.js/Express, MongoDB) containeri
 **`Open to open-source collaboration, interesting projects, new opportunities, and connecting with fellow developers.`**  
 <br>
 <!-- WEBSITE -->  
-<img align="left" src="https://github.githubassets.com/images/mona-loading-default.gif" width="55"/>
-<img align="right" src="https://github.githubassets.com/images/mona-loading-default.gif" width="55"/>
+<picture>
+  <source media="" srcset="https://github.githubassets.com/images/mona-loading-default.gif">
+  <img align="left" src="https://github.githubassets.com/images/mona-loading-default.gif" width="55"/>
+</picture>
+<picture>
+  <source media="" srcset="https://github.githubassets.com/images/mona-loading-default.gif">
+  <img align="right" src="https://github.githubassets.com/images/mona-loading-default.gif" width="55"/>
+</picture>
 
 `Feel free to reach out.` 
 
@@ -134,6 +142,8 @@ A 3-tier Hospital Management System (React, Node.js/Express, MongoDB) containeri
   <a href="https://sharadverma.carrd.co/" target="_blank">
     <img alt="Website" src="https://badgers.space/badge/website/Website/4A90A4?icon=eva-globe&label=&corner_radius=l&scale=1.2&theme=tailwind">
   </a>
+  <br>
+  <br>
 
   ---
 
