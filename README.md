@@ -50,6 +50,7 @@ Focused on understanding, experimenting, and solving real-world problems - not j
 ---
 
 <!-- SKILLS IMAGE -->
+## Skills & Technologies
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/skills-light.svg">
