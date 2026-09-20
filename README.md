@@ -12,7 +12,11 @@
 
 <!-- MOVING LINES (TYPING SVG) -->
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nova+Round&size=21&duration=4000&pause=500&color=58A4FE&center=true&vCenter=true&width=600&height=65&lines=Building+systems+that+think%2C+heal%2C+and+scale.;Designing+workflows+that+learn%2C+adapt%2C+and+execute.;Shipping+pipelines+that+defend%2C+detect%2C+and+deliver." alt="Typing SVG" /></a>
+<picture>
+  <source media="" srcset="https://readme-typing-svg.demolab.com?font=Nova+Round&size=21&duration=4000&pause=500&color=58A4FE&center=true&vCenter=true&width=600&height=65&lines=Building+systems+that+think%2C+heal%2C+and+scale.;Designing+workflows+that+learn%2C+adapt%2C+and+execute.;Shipping+pipelines+that+defend%2C+detect%2C+and+deliver.">
+  <img src="https://readme-typing-svg.demolab.com?font=Nova+Round&size=21&duration=4000&pause=500&color=58A4FE&center=true&vCenter=true&width=600&height=65&lines=Building+systems+that+think%2C+heal%2C+and+scale.;Designing+workflows+that+learn%2C+adapt%2C+and+execute.;Shipping+pipelines+that+defend%2C+detect%2C+and+deliver." alt="Typing SVG" />
+</picture>
+</div>
 <br>
 
 
@@ -34,7 +38,10 @@
 
 ---
 
+
 <!-- ABOUT ME -->
+<div align="center">
+  
 ## About Me
 Building my career around **DevOps**, **Cloud Computing**, and **Automation**, with a growing interest in emerging AI tools.  
 <br>
@@ -150,5 +157,5 @@ A 3-tier Hospital Management System (React, Node.js/Express, MongoDB) containeri
 
   <!-- PROFILE VIEWS --> 
 <p align="center">
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=sharadverma638&color=grey&style=flat&base=500&abbreviated=true&label=Profile+Views:" /></a>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=sharadverma638&color=grey&style=flat&base=1000&abbreviated=true&label=Profile+Views:" /></a>
 </p>
