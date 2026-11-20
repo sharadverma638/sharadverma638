@@ -26,7 +26,7 @@
     <img alt="LinkedIn" src="https://badgers.space/badge/linkedin/LinkedIn/6B8F71?icon=eva-linkedin&label=&corner_radius=l&scale=1.2&theme=tailwind">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://sharadverma638.github.io/portfolio" target="_blank">
+  <a href="https://sharadverma.vercel.app/" target="_blank">
     <img alt="Portfolio" src="https://badgers.space/badge/portfolio/Portfolio/C08552?icon=cssgg-briefcase&label=&corner_radius=l&scale=1.2&theme=tailwind">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
