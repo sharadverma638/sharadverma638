@@ -30,7 +30,7 @@
     <img alt="Portfolio" src="https://badgers.space/badge/portfolio/Portfolio/C08552?icon=cssgg-briefcase&label=&corner_radius=l&scale=1.2&theme=tailwind">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sharadverma638@gmail.com">
+  <a href="mailto:sharadverma638@gmail.com?subject=Connecting%20Through%20GitHub&body=Hi%20Sharad%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20wanted%20to%20get%20in%20touch.%0A%0A">
     <img alt="Email" src="https://badgers.space/badge/email/Email/A85C7A?icon=eva-email-outline&label=&corner_radius=l&scale=1.2&theme=tailwind">
   </a>
 </div>
