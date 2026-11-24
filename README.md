@@ -147,7 +147,7 @@ A 3-tier Hospital Management System (React, Node.js/Express, MongoDB) containeri
 `Feel free to reach out.` 
 
 <p align="center">
-  <a href="https://sharadverma.carrd.co/" target="_blank">
+  <a href="https://sharadverma.vercel.app/links" target="_blank">
     <img alt="Website" src="https://badgers.space/badge/website/Website/4A90A4?icon=eva-globe&label=&corner_radius=l&scale=1.2&theme=tailwind">
   </a>
   <br>
